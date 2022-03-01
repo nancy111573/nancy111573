@@ -1,26 +1,17 @@
 # Hi, this is Nancy👋 
-
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
-
-
 ## I'm a Student, Developer and Designer!!
 
 - 🌱 I’m currently working on projects outside and in uni.
-- 👯 I’m looking to collaborate with other developers and designers.
 - 🥅 2022 Goals: I'm perparing for internship applications this winter!
-- 🔭 Check out our student service application: [NZCSA](https://nzcsa.wdcc.co.nz/)!
+- 👯 I’m looking to collaborate with other developers and designers.
+- 🐼 Check out our student service application: [NZCSA](https://nzcsa.wdcc.co.nz/)!
 - 🖌️ Hobbies: I love digital art and graphic design!
 - 😻 Check out my grahic design portfolio: [Behance](https://www.behance.net/nancy111570b77)
 
 ### Work in Progress:
 
 1. 👩‍💻 Women in CompSci - teaching assistant helping fellow females students with [WinCS](https://www.facebook.com/groups/UOA.WINCS/)
-2. 💪 NZCSA - maintaining and updating application at (https://github.com/UoaWDCC/NZCSA-Frontend)
+2. 💪 NZCSA - maintaining and updating application at [UoaWDCC/NZCSA-Frontend](https://github.com/UoaWDCC/NZCSA-Frontend)
 3. 🎉 School Projects - practicing with a team in ...
 4. 🗣 Marker - marker at [School of Computer Science](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html)
 
