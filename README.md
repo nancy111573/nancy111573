@@ -13,7 +13,7 @@
 1. 👩‍💻 Women in CompSci - teaching assistant helping fellow females students with [WinCS](https://www.facebook.com/groups/UOA.WINCS/)
 2. 💪 NZCSA - maintaining and updating application at [UoaWDCC/NZCSA-Frontend](https://github.com/UoaWDCC/NZCSA-Frontend)
 3. 🎉 School Projects - practicing with a team in ...
-4. 🗣 Marker - marker at [School of Computer Science](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html)
+4. 💰 Marker - marker at [School of Computer Science](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html)
 
 ### Connect with me:
 
