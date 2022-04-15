@@ -14,6 +14,7 @@
 2. 💪 NZCSA - maintaining and updating application at [UoaWDCC/NZCSA-Frontend](https://github.com/UoaWDCC/NZCSA-Frontend)
 3. 🎉 School Projects - practicing with a team in ...
 4. 💰 Marker - marker at [School of Computer Science](https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html)
+5. 💡 Miscrosoft Student Accelerator - starting phrase 1 at [MSA](https://github.com/NZMSA/2022-Phase-1)
 
 ### Connect with me:
 
