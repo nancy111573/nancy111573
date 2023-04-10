@@ -1,7 +1,7 @@
 # Hi, this is Nancy👋 
 ## I'm a graduate developer and a casual graphics designer
 
-- 🌱 I’m currently in my summer internship, building a [rules engine](https://github.com/microsoft/RulesEngine) to process payrolls. 
+- 🌱 Learning API integrations, AngularJS and client communication in my graduate developer role. 
 - 🥅 2023 Goals: I want to make the most of my graduate programme and gain a wider understanding on the industry.
 - 👯 I’m looking to collaborate with other developers and designers.
 - 🤖 I've published my first PyPI library with my team at [pyKiwrious](https://pypi.org/project/pyKiwrious/)
@@ -11,10 +11,9 @@
 
 ### Work in Progress:
 
-1. ⚙️ Summer Internship - finishing off my summer internship with [Manawanui](https://www.manawanui.org.nz/en-US/).
-2. 👩‍💻 IT Graduate Programme - joining the [Digital Service](https://www.auckland.ac.nz/en/about-us/jobs-at-auckland/intern-and-graduate-programmes/graduate-programme.html) team at the University of Auckland.
-3. 🐸 Flexbox Froggy - having fun with [Flexbox Froggy](https://flexboxfroggy.com/).
-4. 💡 Self study: learning OAuth.
+1. 👩‍💻 IT Graduate Programme - working in the [Digital Service](https://www.auckland.ac.nz/en/about-us/jobs-at-auckland/intern-and-graduate-programmes/graduate-programme.html) space at the University of Auckland.
+2. 🛡️ Self study - Having fun with [AngularJS](https://angular-university.io/home).
+3. 📖 Certification - Practicing [AWS](https://aws.amazon.com/certification/certified-cloud-practitioner/?nc1=h_ls) set.
 
 ### Connect with me:
 
@@ -26,16 +25,25 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="ssharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+<img align="left" alt="csharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="dot-net" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="mySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PhotoShop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PhotoShop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />\
+
+### Practicing:
+
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
+<img align="left" alt="AngularJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jenkins" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
